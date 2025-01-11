@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Databot-React/static/css/main.15938d42.css",
+    "main.js": "/Databot-React/static/js/main.72f12a4f.js",
+    "index.html": "/Databot-React/index.html",
+    "main.15938d42.css.map": "/Databot-React/static/css/main.15938d42.css.map",
+    "main.72f12a4f.js.map": "/Databot-React/static/js/main.72f12a4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15938d42.css",
+    "static/js/main.72f12a4f.js"
+  ]
+}
