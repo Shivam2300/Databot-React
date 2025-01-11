@@ -10,7 +10,7 @@ const Header = () => {
     <div className='left-panel-header border-down'>
       <div className='heading'>
         <h3>Databot</h3>
-        <img src='/images/AI Generate A lined.png' alt='Image'/>
+        <img src='images/AI Generate A lined.png' alt='Image'/>
       </div>
       <div className='dropdown'>
         <p>Connected Data: <span>Clothing Sales</span><img onClick={()=>{setOpen(!open)}} src='images/Polygon 19.png'/></p>
