@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Databot-React/static/css/main.15938d42.css",
-    "main.js": "/Databot-React/static/js/main.72f12a4f.js",
+    "main.js": "/Databot-React/static/js/main.6caeae25.js",
     "index.html": "/Databot-React/index.html",
     "main.15938d42.css.map": "/Databot-React/static/css/main.15938d42.css.map",
-    "main.72f12a4f.js.map": "/Databot-React/static/js/main.72f12a4f.js.map"
+    "main.6caeae25.js.map": "/Databot-React/static/js/main.6caeae25.js.map"
   },
   "entrypoints": [
     "static/css/main.15938d42.css",
-    "static/js/main.72f12a4f.js"
+    "static/js/main.6caeae25.js"
   ]
 }
